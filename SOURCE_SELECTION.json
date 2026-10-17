@@ -1,0 +1,137 @@
+{
+  "schema": "casimirbot.discord_source_candidate.v1",
+  "status": "source-only-publication-reviewed",
+  "sourceCommit": "7ab2e54d872cebffb050552d87d58f1b1bcd2549",
+  "files": [
+    {
+      "path": "integrations/discord-helix-bot/src/commands.ts",
+      "sha256": "1e76933c986960885bfc57f0fbe11fe2a91a566939486ad1b5d0098a3b995995",
+      "bytes": 2718
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/config.ts",
+      "sha256": "a0bf36c664e54b99937b0b6a7b55e8e197b0da713a6b008fee861540683682fa",
+      "bytes": 1581
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/helixClient.ts",
+      "sha256": "693aedd09f47ac6df5b14fb045ff4fd75ec5b887d06d459afdb8a289881a4697",
+      "bytes": 4125
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/index.ts",
+      "sha256": "60dd8a1ef60ebd6e7d6dc94d1aed6e863566cce9d2275f30f2d08d4035b51dcb",
+      "bytes": 738
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/interactions.ts",
+      "sha256": "330f58f7f5ad810363c2988fbd6b5c0c92c9ab4b3fce7de41f873c80f4dde82c",
+      "bytes": 3640
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/opus-decoder.ts",
+      "sha256": "aee4f943ef57e549793e97200dc374b2015f1089c38e6bce893f42b54d58cb2b",
+      "bytes": 426
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/sessionRuntime.ts",
+      "sha256": "72359e159f968fcc8bd3e5d1ec22128db8d70c89e31bc9add4f48444498ea513",
+      "bytes": 1232
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/solar-wake.ts",
+      "sha256": "12703b932bdd1276e8637dfd7c4c8043574afae6e2af5ef8a67116d18a4dc934",
+      "bytes": 2498
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-admission.ts",
+      "sha256": "60f0a78913e4bdc6b5b9d87d75dfac8de94771b8148f0d24b0ce1a5874ec0d0e",
+      "bytes": 2377
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-session.ts",
+      "sha256": "082d670c11d9093c5216f306413d6d5f4b670180fbc69a225ceece9a99c798c0",
+      "bytes": 10719
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-socket-close.test.ts",
+      "sha256": "388af2e04a24f64b683b6163b0a200871a438022367fe50426bc7d190e627a6d",
+      "bytes": 1019
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-socket-close.ts",
+      "sha256": "1d8f9bc6ad0761fb39372d9801b52ca8c9b1aaa5c123b0588c4987678be5fc2c",
+      "bytes": 454
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-ticket.ts",
+      "sha256": "ea6a023216c8a53ac2022f9d159dfb4c3909f537cfe35fea661aed43a838a2e2",
+      "bytes": 3263
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-worklet.test.ts",
+      "sha256": "2036f0dcc36f1c7353b1299e394ae98cdaaab7e90bcdb30c60ea8285becbbe25",
+      "bytes": 2049
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-opus-output.test.ts",
+      "sha256": "d8131ad45c1464735520610fdb743a9f2a9b87df7b3266418e86c9da4d87d673",
+      "bytes": 1142
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-opus-output.ts",
+      "sha256": "e29b653a04cbdc560fcd220959d5f347814f2967cf0ecea050f8fc4133b3119c",
+      "bytes": 622
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-opus-probe.ts",
+      "sha256": "5c45dbb2a6a39e16810fc9ca8cc6cc926c7f15848879e4a9ed25d868fc103795",
+      "bytes": 4389
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-pcm-mixer.test.ts",
+      "sha256": "f415d9516c054a3e578aca395fd739e722be9cbc63dd10e047bff1f62c9e8da2",
+      "bytes": 1234
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-pcm-mixer.ts",
+      "sha256": "4572f7cd3c955edf16b5f13545f2de7bcb56a64e978069299f61576a008c37a2",
+      "bytes": 745
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-pcm-signal.test.ts",
+      "sha256": "55b0b083b4a1ed9484ea4598425c4617268f2a08c86c3454df00ea9e2b596d6f",
+      "bytes": 570
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-pcm-signal.ts",
+      "sha256": "7e7e585bedac4a9e11686a15b6fbabcdd7e92e34e0fedff26aadb8a4235a1bfe",
+      "bytes": 785
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-roster.ts",
+      "sha256": "e75b6d13b14e17b4fb59087b83b64bf0d70277ef7c54add526be20641de2894d",
+      "bytes": 4892
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-worker.ts",
+      "sha256": "1466580a38fcb11fc94a93d9d85e4ce1b70624e42508e9ee8e27efe530680ae6",
+      "bytes": 30468
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voiceEventSimulator.ts",
+      "sha256": "2ff32f44ef1beb465d6b84b8b06c2a61b0ffda28fe3063bfb2a20ff195ca8436",
+      "bytes": 786
+    }
+  ],
+  "excluded": [
+    {
+      "path": "integrations/discord-helix-bot/src/register-commands.ts",
+      "reason": "imports unpublished server command registry"
+    },
+    {
+      "path": "integrations/discord-helix-bot/src/voice-bridge-ticket.test.ts",
+      "reason": "imports unpublished server bridge ticket module"
+    }
+  ]
+}
